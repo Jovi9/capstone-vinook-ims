@@ -1,0 +1,1 @@
+select * from sys_history order by _date desc;
